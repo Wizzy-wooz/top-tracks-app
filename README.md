@@ -2,9 +2,13 @@
 ## Setup 
 1. Check application.conf file and adjust it according to your needs.
 1. Run following commands: 
-    
-    
+ 
+ ## 1. Clean project
+
     sbt clean
+    
+ ## 2. Compile project
+ 
     sbt compile
        
 ## Running TopTracksApp class via sbt
